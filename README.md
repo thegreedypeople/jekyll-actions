@@ -7,4 +7,6 @@ workflow-github-pages (main)
 gh-pages branch
 [![pages-build-deployment](https://github.com/thegreedypeople/jekyll-actions-setup/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://github.com/thegreedypeople/jekyll-actions-setup/actions/workflows/pages/pages-build-deployment)
 
+[![pages-build-deployment](https://github.com/thegreedypeople/jekyll-actions-setup/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages&event=deployment)](https://github.com/thegreedypeople/jekyll-actions-setup/actions/workflows/pages/pages-build-deployment)
+
 //end
